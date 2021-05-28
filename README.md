@@ -7,7 +7,7 @@ I've Made 3 Public Sites So Far:
  - Gaming Site: http://kidsgamez.com/uvread/index.html
 
 Real About Me:
-- 👋 Hi, I’m @Dheirya
+- 👋 Hi, I’m Dheirya Tyagi
 - 👀 I’m interested in learning C++ and Flutter
 - 🌱 I’m currently learning Java
 - 🧒 I'm 13-Years-Old
