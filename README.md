@@ -1,5 +1,4 @@
-⭐ Quick About:
-I am a 13 year old and I like programming in python, django, html, css , js.
+⭐ I am a 13 year old and I like programming in python, django, html, css, js.
 
 I've Made 3 Public Sites So Far:
  - LGBTQ+ Discrimination Site: https://dheirya.github.io/LGBTQ_Discrimination_Project/main/index.html
