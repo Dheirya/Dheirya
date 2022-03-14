@@ -1,4 +1,4 @@
-⭐ I am a 13 year old and I like programming in python, django, html, css, js.
+⭐ I am a 13-year-old kid and I like programming in python, django, html, css, js. I also like messing around with arduino and raspberry pi.
 
 I've Made Many Sites, But Some Of My Favorites Include:
 - Social Rumbles Social Media Site: https://socialrumbles.com/home/
@@ -11,12 +11,16 @@ I've Made Many Sites, But Some Of My Favorites Include:
 
 Real About Me:
 - 👋 Hi, I’m Dheirya Tyagi
-- 👀 I’m interested in learning C++ and Flutter
+- 👀 I’m interested in learning Java and Flutter
 - 🌱 I’m currently learning Raspberry Pi
 - 🧒 I'm 13-Years-Old
-- 🌱 I like to swim and play tennis
+- 🚀 I like to swim, draw, run, and play tennis
 
 Other Links:
-- Stack Overflow - https://stackoverflow.com/users/14814478/john-doe?tab=profile
+- Social Rumbles - https://socialrumbles.com/@Dheirya_Tyagi_CEO
+- Replit - https://replit.com/@RedMan2Man
+- GitHub - https://github.com/Dheirya
+- Twitter - https://twitter.com/fellow_doge
+- YouTube - https://www.youtube.com/channel/UCDRExScvxFo57wMpXudTHjA
 
 Have a Nice Day 👋
