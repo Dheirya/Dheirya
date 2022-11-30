@@ -20,9 +20,9 @@ Real About Me:
 
 Other Links:
 - Social Rumbles - https://socialrumbles.com/@Dheirya_Tyagi_CEO
-- Replit - https://replit.com/@RedMan2Man
+- Replit - https://replit.com/@dheiryat
 - GitHub - https://github.com/Dheirya
-- Twitter - https://twitter.com/fellow_doge
-- YouTube - https://www.youtube.com/channel/UCDRExScvxFo57wMpXudTHjA
+- Twitter - https://twitter.com/DheiryaTyagi
+- YouTube - https://www.youtube.com/@dheirya
 
 Have a Nice Day 👋
