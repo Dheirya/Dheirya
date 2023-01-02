@@ -1,4 +1,4 @@
-My Links: https://bit.ly/dheirya
+My Links: https://dheirya.is-a.dev
 
 ⭐ I am a 14-year-old kid and I like programming in AI/ML, Python, JavaScript, Django, C++, CSS, HTML. I also like messing around with Arduino and rPi
 
