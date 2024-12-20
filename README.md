@@ -1,6 +1,6 @@
 My Links: https://dheirya.is-a.dev
 
-⭐ I am a 15-year-old kid and I like programming in AI/ML, Python, JavaScript, Django, C++, CSS, HTML. I also like messing around with Arduino and rPi
+⭐ I am a 16-year-old kid and I like programming in AI/ML, Python, JavaScript, Django, C++, CSS, HTML. I also like messing around with Arduino and rPi
 
 I've Made Many Sites, But Some Of My Favorites Include:
 - Social Rumbles Social Media Site: https://socialrumbles.com/home/
