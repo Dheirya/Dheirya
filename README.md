@@ -6,9 +6,9 @@ I've Made Many Sites, But Some Of My Favorites Include:
 - Fastlingo Language Learning Site: https://youtu.be/JCzjd4akr_M
 - MeloVybs AI Piano Cover Bot: https://youtube.com/@melovybs
 - Social Rumbles Social Media Site: https://socialrumbles.com/home/
-- CodeGen AI-based Code Generator: https://codegen.pythonanywhere.com
-- RagePlatformer 3D Game: https://rageplatformer.vercel.app
-- Simple Math Quiz Game - https://mathquiz.pages.dev
+- CodeGen AI-based Code Generator: https://replit.com/@dheiryat/CodeGen-An-AI-Based-Code-Generating-Site
+- RagePlatformer 3D Game: https://rageplatformer.vercel.app/
+- Simple Math Quiz Game: https://mathquiz.pages.dev
 - Wordle Answers, Past, Present, & Future: https://wordle-answers.vercel.app
 - Basic 3D Games & 2D Games: https://socialrumbles.com/games/
 - AI Text & Image Generator: https://webai.vercel.app
