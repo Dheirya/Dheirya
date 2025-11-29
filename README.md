@@ -6,7 +6,7 @@ I'm a passionate student developer, STEM advocate, and lifelong learner dedicate
 
 ## 🔭 What I'm up to
 - Co-President of [BHS Tech & Robotics Club](https://bhstech.club) — leading STEM outreach, building robots, and running regional competitions  
-- Founder & Developer of [Simple Explanations](https://simplexp.org) — an education platform demystifying STEM with 110+ videos & crowdsourced notes + AI-powered quizzes reaching 250K+ learners worldwide  
+- Founder & Developer of [Simple Explanations](https://simplexp.org) — an education platform demystifying STEM with 130+ videos & crowdsourced notes + AI-powered quizzes reaching 590K+ learners worldwide  
 - Leading research on quantum computing’s cybersecurity impact as an intern at New Jersey Cybersecurity and Communications Integration Cell  
 - Developing full-stack projects including a Django-based social media site with 1.3K+ users and FastAPI language learning app FastLingo  
 - Teaching coding to youth as a Code Coach and mentoring over a hundred students globally via [Schoolhouse.world](https://schoolhouse.world/transcript/2f939e3c-c522-4071-930c-a5d57a061d5a)
